@@ -39,8 +39,8 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="{{ route('kategori.index') }}" class="nav-link">
-                                <i class="fa fa-circle-o nav-icon"></i>
+                            <a href="{{ url('categories.index') }}" class="nav-link">
+                                <i class="<i class="fa-solid fa-list"></i>"></i>
                                 <p>Kategori</p>
                             </a>
                         </li>
